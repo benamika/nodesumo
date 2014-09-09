@@ -1,0 +1,28 @@
+{
+  "name": "nodesumo",
+  "version": "0.0.1",
+  "description": "An API to control the Parrot Jumping Sumo drone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:adrianpomilio/nodesumo.git"
+  },
+  "keywords": [
+    "node",
+    "parrot",
+    "sumo",
+    "drone"
+  ],
+  "author": "Adrian Pomilio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianpomilio/nodesumo/issues"
+  },
+  "homepage": "https://github.com/adrianpomilio/nodesumo",
+  "dependencies": {
+    "buffy": "0.0.5"
+  }
+}
